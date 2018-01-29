@@ -1,1 +1,3 @@
-export const FETCH_USER = 'FETCH_USER';
+export const FETCHING_PHOTOS = 'FETCHING_PHOTOS';
+export const FETCHING_SUCCESS = 'FETCHING_SUCCESS';
+export const FETCHING_FAIL = 'FETCHING_FAIL';
